@@ -1,0 +1,889 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+
+	<head profile="http://gmpg.org/xfn/11">
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" >
+		 
+		<title>The French of Outremer</title>
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The French of Outremer &raquo; Feed" href="https://frenchofoutremer.ace.fordham.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The French of Outremer &raquo; Comments Feed" href="https://frenchofoutremer.ace.fordham.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/frenchofoutremer.ace.fordham.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://frenchofoutremer.ace.fordham.edu/wp-includes/css/dashicons.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://frenchofoutremer.ace.fordham.edu/wp-includes/css/admin-bar.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lovecraft_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%7CPlayfair+Display%3A400%2C700%2C400italic&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lovecraft_genericons-css'  href='https://frenchofoutremer.ace.fordham.edu/wp-content/themes/lovecraft/genericons/genericons.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lovecraft_style-css'  href='https://frenchofoutremer.ace.fordham.edu/wp-content/themes/lovecraft/style.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sharedaddy-css'  href='https://frenchofoutremer.ace.fordham.edu/wp-content/plugins/jetpack-sharing/sharedaddy/sharing.css?ver=3.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://frenchofoutremer.ace.fordham.edu/wp-content/plugins/jetpack-sharing/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<script>
+if (document.location.protocol != "https:") {
+    document.location = document.URL.replace(/^http:/i, "https:");
+}
+</script>
+<script type='text/javascript' src='https://frenchofoutremer.ace.fordham.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://frenchofoutremer.ace.fordham.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://frenchofoutremer.ace.fordham.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://frenchofoutremer.ace.fordham.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://frenchofoutremer.ace.fordham.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-78575156-1', 'auto');
+			ga('require', 'displayfeatures');
+			ga('require', 'linkid', 'linkid.js');
+			ga('set', 'anonymizeIP', true);
+			ga('set', 'forceSSL', true);
+			ga('send', 'pageview');
+		</script>
+
+		      
+	      <!-- Customizer CSS --> 
+	      
+	      <style type="text/css">
+	           body a { color:#6085d4; }	           body a:hover { color:#6085d4; }
+	           .blog-title a:hover { color:#6085d4; }	           
+	           .main-menu li:hover > a { color:#6085d4; }	           .main-menu > .menu-item-has-children > a:after { border-top-color:#6085d4; }	           .main-menu > .menu-item-has-children > a:hover:after { border-top-color:#6085d4; }	           
+	           .sticky-post { background:#6085d4; }	           .sticky-post:after { border-right-color:#6085d4; }	           .sticky-post:after { border-left-color:#6085d4; }	           .post-meta a { color:#6085d4; }	           .post-meta a:hover { border-bottom-color:#6085d4; }	           
+	           .post-content a { color:#6085d4; }	           .post-content a:hover { color:#6085d4; }	           .post-content blockquote:after { color:#6085d4; }	           .post-content input[type="submit"]:hover { background:#6085d4; }	           .post-content input[type="button"]:hover { background:#6085d4; }	           .post-content input[type="reset"]:hover { background:#6085d4; }	           
+	           .post-content .page-links a:hover { background:#6085d4; }	           .post-tags a:hover { background:#6085d4; }	           .post-tags a:hover:before { border-right-color:#6085d4; }	           .post-navigation h4 a:hover { color:#6085d4; }	           
+	           .comments-title-link a { color:#6085d4; }	           .comments .pingbacks li a:hover { color:#6085d4; }	           .comment-header h4 a:hover { color:#6085d4; }	           .bypostauthor .comment-author-icon { background:#6085d4; }	           .form-submit #submit:hover { background-color:#6085d4; }	           .comments-nav a:hover { color:#6085d4; }	           .pingbacks-title { border-bottom-color:#6085d4; }	           
+	           .archive-navigation a:hover { color:#6085d4; }				
+			   .widget-title { border-bottom-color:#6085d4; }	           
+	           .widget-content .textwidget a:hover { color:#6085d4; }	           .widget_archive li a:hover { color:#6085d4; }	           .widget_categories li a:hover { color:#6085d4; }	           .widget_meta li a:hover { color:#6085d4; }	           .widget_nav_menu li a:hover { color:#6085d4; }	           .widget_rss .widget-content ul a.rsswidget:hover { color:#6085d4; }	           #wp-calendar thead th { color:#6085d4; }	           #wp-calendar tfoot a:hover { color:#6085d4; }	           .widget .tagcloud a:hover { background:#6085d4; }	           .widget .tagcloud a:hover:before { border-right-color:#6085d4; }	           .footer .widget .tagcloud a:hover { background:#6085d4; }	           .footer .widget .tagcloud a:hover:before { border-right-color:#6085d4; }	           .search-button:hover .genericon { color:#6085d4; }	           .wrapper .search-button:hover .genericon { color:#6085d4; }	           .footer .search-button:hover .genericon { color:#6085d4; }	           
+	           .credits .sep { color:#6085d4; }	           .credits p a:hover { color:#6085d4; }
+	           .nav-toggle.active .bar { background-color:#6085d4; }	           .search-toggle.active .genericon { color:#6085d4; }	           .mobile-menu .current-menu-item:before { color:#6085d4; }	           .mobile-menu .current_page_item:before { color:#6085d4; }	           
+				
+				
+	      </style> 
+	      
+	      <!--/Customizer CSS-->
+	      
+      <style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<link rel="icon" href="https://frenchofoutremer.ace.fordham.edu/wp-content/uploads/2017/08/cropped-FrenchofOutremer_NewLogo_Draft_1280x444_8_16_2017_Logo-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://frenchofoutremer.ace.fordham.edu/wp-content/uploads/2017/08/cropped-FrenchofOutremer_NewLogo_Draft_1280x444_8_16_2017_Logo-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://frenchofoutremer.ace.fordham.edu/wp-content/uploads/2017/08/cropped-FrenchofOutremer_NewLogo_Draft_1280x444_8_16_2017_Logo-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://frenchofoutremer.ace.fordham.edu/wp-content/uploads/2017/08/cropped-FrenchofOutremer_NewLogo_Draft_1280x444_8_16_2017_Logo-1-270x270.jpg" />
+	
+	</head>
+	
+	<body class="home blog logged-in admin-bar no-customize-support">
+		
+		<div class="header-wrapper">
+		
+			<div class="header section bg-white small-padding">
+			
+				<div class="section-inner">
+					
+									
+						<h2 class="blog-title">
+							<a href="https://frenchofoutremer.ace.fordham.edu" title="The French of Outremer &mdash; " rel="home">The French of Outremer</a>
+						</h2>
+						
+												
+													
+					<div class="clear"></div>
+				
+				</div> <!-- /section-inner -->
+						
+			</div> <!-- /header -->
+			
+			<div class="toggles">
+						
+				<div class="nav-toggle toggle">
+					
+					<div class="bar"></div>
+					<div class="bar"></div>
+					<div class="bar"></div>
+					
+				</div>
+				
+				<div class="search-toggle toggle">
+					
+					<div class="genericon genericon-search"></div>
+					
+				</div>
+				
+				<div class="clear"></div>
+				
+			</div> <!-- /toggles -->
+		
+		</div> <!-- /header-wrapper -->
+		
+		<div class="navigation bg-white no-padding">
+			
+			<div class="section-inner">
+				
+				<ul class="mobile-menu">
+				
+					<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-22"><a href="http://frenchofoutremer.ace.fordham.edu">Source Index</a>
+<ul  class="sub-menu">
+	<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Listing By Category</a></li>
+	<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Illustrated Index / Manuscript Gallery</a></li>
+</ul>
+</li>
+<li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">About the Sources</a></li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Bibliography</a></li>
+<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Contributors</a></li>
+<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Contact Us</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Essays</a></li>
+<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Digital Humanities Project</a></li>
+					
+				</ul>
+				
+				<div class="mobile-search">
+				
+					<form method="get" class="search-form" id="search-form" action="https://frenchofoutremer.ace.fordham.edu/">
+	<input type="search" class="search-field" placeholder="Search form" name="s" id="s" /> 
+	<button type="submit" class="search-button"><div class="genericon genericon-search"></button>
+</form>				
+				</div>
+				
+				<ul class="main-menu">
+				
+					<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-22"><a href="http://frenchofoutremer.ace.fordham.edu">Source Index</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Listing By Category</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Illustrated Index / Manuscript Gallery</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">About the Sources</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Bibliography</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Contributors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Essays</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="https://frenchofoutremer.ace.fordham.edu/522-2/">Digital Humanities Project</a></li>
+					
+				</ul>
+				
+				<div class="clear"></div>
+				
+			</div> <!-- /section-inner -->
+			
+		</div> <!-- /navigation -->
+		
+				
+			<div class="header-image bg-image" style="background-image: url(https://frenchofoutremer.ace.fordham.edu/wp-content/uploads/2017/08/cropped-FrenchofOutremer_NewLogo_Draft_1280x444_8_16_2017_00.jpg)">
+				
+				<img src="https://frenchofoutremer.ace.fordham.edu/wp-content/uploads/2017/08/cropped-FrenchofOutremer_NewLogo_Draft_1280x444_8_16_2017_00.jpg">				
+			</div>
+		
+		
+<div class="wrapper section">
+	
+	<div class="section-inner">
+
+		<div class="content">
+																			                    
+						
+							
+				<div class="posts" id="posts">
+						
+			    				    	
+			    		<div id="post-893" class="post post-893 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="Fait des Romains">Fait des Romains</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/hannah-graham/" title="Posts by Hannah Graham" rel="author">Hannah Graham</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">October 6, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=893&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';"> In the 1280s, a copy of the Faits des Romains was produced at the scriptorium of Acre and decorated with small miniatures that accompanied the text. The Faits des Romains, a compilation history, is based on classical texts such as Sallust’s De Coniuratione Catilinae, Seutonius’s De Vita Caesarum, Lucan’s Pharsalia and Caesar’s De Bello Gallica, and records the real and imagined events of Julius Caesar’s life. During thirteenth and fourteenth centuries it was widely circulated throughout French-speaking areas including France, the Levant, and northern Italy. See also the entry on the Faits des Romains on the French of Italy <a href = "https://frenchofitaly.ace.fordham.edu">website</a>.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';">Brussels, Bibliothèque Royale, MS. 10212.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">Fultre, Louis Fernand, and J, Sneyders de Vogel, eds. Li fet des Romains. Paris, France: Droz, 1936.</span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+<span style="font-family: 'Times New Roman';">Folda, Jaroslav. <em><a href = "https://books.google.com/books?id=1B4sNamu5EgC&#038;lpg=PP1&#038;dq=The%20Chronicle%20of%20Morea&#038;pg=PP1#v=onepage&#038;q&#038;f=false">Crusader Art in the Holy Land: From The Third Crusade To The Fall Of Acre, 1187-1291</a></em>. Cambridge, UK: Cambridge University Press, 2005.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-893" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-893" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-893" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-890" class="post post-890 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="Hospitaller Esgarts">Hospitaller Esgarts</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/hannah-graham/" title="Posts by Hannah Graham" rel="author">Hannah Graham</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">October 6, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=890&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';"> The Esgarts, or Judgements, were decisions that had been taken by the Chapter General of the Hospitallers in specific cases which were then applicable to the brethren at large. The cases were principally concerned with misconduct within the Order, such as what should occur if a brother stole from the Order, if he wrongly accused another brother in public, or lesser offenses such as if he rode his horse after a wild animal or let a woman wash his head and feet. Along with the Usances, many of the Esgarts were collected in the late thirteenth and early fourteenth centuries and preserved in two manuscripts, both of which first appeared in French and were subsequently translated into several different languages. The later manuscript (Paris, BN 6049) contains additional case studies where individual brothers committed specific offenses, and where the judgements rendered offered precedent for future behavior within the Order.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';"> <a href = "http://digi.vatlib.it/view/MSS_Vat.lat.4852">Rome, Vatican Library, lat. 4852.</a><br />
+Paris, Bibliothèque Nationale, fr. 6049.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">Le Roulx, Delaville. <em>J.Cartulaire Général de l’Ordre des Hospitaliers de S. Jean de Jérusalem</em> vol 2. Paris, France: Ernest Leroux, 1894-1906.<br />
+ 548-561.</p>
+<p>King, E.J. (trans). <em>The Rule Statute and Customs of the Hospitallers 1099-1310</em>. London, UK, 1934.<br />
+174-201.<br />
+</span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+<span style="font-family: 'Times New Roman';">Burgtorf, Jochen. The Central Convent of Hospitallers and Templars. History, Organization and Personnel, 1099/1120-1310. Leiden, the Netherlands: Brill, 2008.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-890" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-890" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-890" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-887" class="post post-887 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="Diplomatic Texts from the Royal and Noble Houses of the Levant">Diplomatic Texts from the Royal and Noble Houses of the Levant</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/hannah-graham/" title="Posts by Hannah Graham" rel="author">Hannah Graham</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">October 6, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=887&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';">  Although there exists no comprehensive collection of diplomatic texts from the royal and noble courts of the Levant, historians have searched through manuscript collections to compile a catalog of extant (and lost) documents relating to these important administrative acts. Of the numerous documents that come to us from the noble courts of Jerusalem and other cities in the Levant, a small number of them appear in French. Below is a listing of those documents, in chronological order, with the earliest documents listed first. Also listed are documents with no specified production locale, but which came from members of the noble houses of the Levant.</p>
+<p>Bibliography:</p>
+<p>A list of documents coming from the courts of the kings and noble houses of Jerusalem can be found in the following:</p>
+<p>Röhricht, Reinhold, ed. Regesta Regni Hierosolymitani (MXCVII-MCCXCI). Libraria Academic Wagneriana, 1893; Additamentum, 1903.</p>
+<p>The following is more complete, with full text of all documents:</p>
+<p>Meyer, Hans Eberhard, ed. Die Urkunden der Lateinischen Konige von Jerusalem. Altfranzosichen texte erstellet von Jean Richard. Hannover, Germany: Hahnsche Buchandlung, 2010.</p>
+<p>When applicable, both sources give an indication of where the French-language texts are published. We have linked to these editions when possible.</p>
+<p>Documents can also be found in the following editions:</p>
+<p>Strehlke, Ernestus, ed. Tabulae ordinis Theutonici. Berlin, Germany: Weidmanus, 1869.</p>
+<p>Delaville le Roulx, J.Cartulaire Général de l’Ordre des Hospitaliers de S. Jean de Jérusalem. Paris, France: Ernest Leroux, 1894-1906.</p>
+<p>Many of these same texts reappear in the lists of Diplomatic Texts from the Military Orders, as they were frequent interlocutors with the noble courts of the East.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';"> N/A.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">N/A. </span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+<span style="font-family: 'Times New Roman';">N/A.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-887" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-887" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-887" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-885" class="post post-885 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="Diplomatic Texts">Diplomatic Texts</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/hannah-graham/" title="Posts by Hannah Graham" rel="author">Hannah Graham</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">October 6, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=885&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';"> There is still much work to be done on the production of French-language diplomatic texts from the Morea. Listed below are French-language texts which did not originate from the Morea, but rather which concern members of the French-language court established there. </p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';"> N/A.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">N/A. </span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+<span style="font-family: 'Times New Roman';">N/A.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-885" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-885" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-885" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-881" class="post post-881 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="John of Journey La Dïme de Pénitance">John of Journey La Dïme de Pénitance</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/hannah-graham/" title="Posts by Hannah Graham" rel="author">Hannah Graham</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">October 6, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=881&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';"><em>The Dïme de Pénitance</em>, also known as <em>La Disme de Penitanche</em>, is a manual written in Old French verse that serves as a guide for laypersons seeking to confess and gain forgiveness for their sins. In the poem, the author identifies himself as John of Journey, a French knight who came to the East on Crusade in the late-thirteenth century and who wrote the Dïme while sick in Nicosia, Cyprus in 1288. The work is divided into two parts. The first instructs the reader on the causes of sin and the different ways to attain remission for them. In the second section, which is more didactic than the first, the author prays for the sins of various monarchs and cardinals and laments the sinful nature of the kingdoms of western Europe</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';">London, British Library, <a href = "http://searcharchives.bl.uk/primo_library/libweb/action/display.do?dscnt=1&#038;elementId=0&#038;vl(1UI0)=contains&#038;recIdxs=0&#038;frbrVersion=&#038;vl(1UI2)=contains&#038;tab=local&#038;dstmp=1504895186212&#038;srt=rank&#038;mode=Advanced&#038;indx=1&#038;renderMode=poppedOut&#038;vl(4961882UI2)=any&#038;vl(freeText0)=Additional%2010015&#038;fn=search&#038;vl(2604854UI1)=any&#038;vid=IAMS_VU2&#038;vl(freeText2)=&#038;vl(1UI1)=contains&#038;frbg=&#038;displayMode=full&#038;ct=display&#038;dum=true&#038;recIds=IAMS032-002107818&#038;doc=IAMS032-002107818&#038;Submit=Search&#038;vl(2126785UI0)=any&#038;vl(freeText1)=&#038;tabs=detailsTab&#038;fromLogin=true">MS Add. 10015.</a></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">Glynn Hesketh, ed. </em>La Disme de Penitanche</em>. London, UK: The Modern Humanities Research Association, 2006.</em></span></span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+See Arlima.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-881" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-881" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-881" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-872" class="post post-872 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="De Rei Militari">De Rei Militari</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/hannah-graham/" title="Posts by Hannah Graham" rel="author">Hannah Graham</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">October 6, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=872&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';"><em>De Rei Militari</em> (also known as the Epitoma Rei Militaris) is a treatise on military tactics written by fifth-century Latin author Vegetius. Prince Edward of England commissioned an Old French translation of the popular text while he was on crusade in the Levant in the early 1270s. Although the original codex of the translation has been lost, a copy of it may exist in Marlay Additional MS I, which, along with the translation, contains a short eight-line verse which ascribes the work to translator Master Richard, and explains that it was completed in Acre at Prince Edward’s request.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';">Cambridge, Fitzwilliam Museum, Marlay Additional MS I.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small"><em>“Une petite chronique chypriote du XVe siècle.&#8221;</em> In Dei Gesta per Francos: Etudes sur le croisades dédiées à Jean Richard, edited by M. Balard, B.Z. Kedar, and J. Riley-Smith. Aldershot, UK: Routledge, 2001. </em></span></span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+Jaraslow, Folda. <a href = "https://www.worldcat.org/title/crusader-manuscript-illumination-at-saint-jean-dacre-1275-1291/oclc/433112762&#038;referer=brief_results"><em>Crusader Manuscript Illumination at Saint-Jean d&#8217;Acre</em></a>. Princeton: Princeton University Press, 1976.<br />
+129-130.  </p>
+<p><span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">Legge, M. D. “The Lord Edward&#8217;s Vegetius.” Scriptorium 7 (1953): 262-65. </p>
+<p><span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">Thorpe, Lewis. “Maistre Richard, A Thirteenth-Century Translator of the &#8216;De Re Militari,&#8217; of Vegetius.&#8221; Scriptorium 6 (1952): 39-51. </p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-872" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-872" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-872" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-864" class="post post-864 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="A Cypriot-French Repertory">A Cypriot-French Repertory</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/hannah-graham/" title="Posts by Hannah Graham" rel="author">Hannah Graham</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">October 6, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=864&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';"> This sporadically-illuminated manuscript, of which there is only one copy surviving in the National Library of Turin, contains a poyphonic repertory of 219 pieces, including movements of the Mass, isorhythmic motets, and other secular songs. Dated to the early fifteenth century by a Papal letter on the first page, the text contains five sections. </p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';">Turin, Bibliotheca Nazionale. J. II. 9.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small">Wold, Johannes, ed. <a href = "https://www.worldcat.org/title/handbuch-der-notationskunde/oclc/30005467&#038;referer=brief_results">Handbuch der Notationskunde I. Kleine Handbücher der Musikgeschichte nach Gattungen</a>. Hildesheim: Georg Olms, 1963 [1913]. </span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+<span style="font-family: 'Times New Roman';">Hoppin, Richard H. &#8220;The Crypriot-French Repertory of the Manuscript Torino, Biblioteca Nazionale J. II. 9.&#8221; Musica Disciplina (1957).</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-864" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-864" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-864" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-826" class="post post-826 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="Anonymous Short Chronicle of Cyprus">Anonymous Short Chronicle of Cyprus</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/rbartels1/" title="Posts by Rebecca Bartels" rel="author">Rebecca Bartels</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">September 29, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=826&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';">The <em>Anonymous Short Chronicle of Cyprus</em> An Italian translation of a short prose history, originally composed in French, chronicling the story of the Lusignan Kingdom of Cyprus from 1192 to 1459.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';">Venice, Biblioteca Nazionale Marciana, MS. It., VI, 154.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small"><em>“Une petite chronique chypriote du XVe siècle.“ In Dei Gesta per Francos: Etudes sur le croisades dédiées à Jean Richard, edited by M. Balard, B.Z. Kedar, and J. Riley-Smith. Aldershot, UK: Routledge, 2001. </em></span></span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"></p>
+<p><span style="font-family: 'Times New Roman';">Angel Nicolaou-Konnari, &#8220;Anonymous Short Chronicle of Cyprus.&#8221; In <em>Encyclopedia of Medieval Chronicle</em>, edited by Graeme Dunphy. Leiden, the Netherlands: Brill, 2010. </p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-826" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-826" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-826" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-824" class="post post-824 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="Annales de Terre Sainte">Annales de Terre Sainte</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/rbartels1/" title="Posts by Rebecca Bartels" rel="author">Rebecca Bartels</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">September 29, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=824&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';">The <em>Annales de Terre Sainte </em> was first composed in Old French, the Annales de Terre Sancte refers to a series of brief chronological entries that recount the history of the crusades and the Latin East from 1095 to 1291. The  Annales tradition proved popular enough that it was copied into a number of compilation manuscripts, such as the Gestes des Chiprois, and was eventually translated into both Latin and Spanish.<br />
+<span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';">Florence, Biblioteca Medicea-Laurenziana, MS Pluteus LXI.10 (Vellum, s. xiiie).</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';">Edbury, Peter, ed. “A New Text of the Annales de Terre Sainte.” In <em>In laudem hierosolymitani: Studies in Crusades and Medieval Culture in Honour of Benjamin Z. Kedar</em>, edited by Iris Shagrir, Ronnie Ellenblum and Jonathan Riley-Smith. Aldershot: Ashgate, 2007.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+Nader, Marwan.<a href="http://books.google.com/books?id=W-626ULQLz4C&amp;lpg=PP1&amp;dq=Burgesses%20and%20Burgess%20law%20in%20the%20Latin%20Kingdoms%20of%20Jerusalem%20and%20Cyprus&amp;pg=PP1#v=onepage&amp;q&amp;f=false"><span class="Featured_Link"><em>Burgesses and Burgess law in the Latin Kingdoms of Jerusalem and Cyprus, 1099-1325</em>.</a> Burlington: Ashgate, 2006, 64-66.</span></p>
+<p></span><span style="font-family: 'Times New Roman';">Alfonso Sanchez Candeira. “Las Cruzadas en la historiografía española de la época: traducción castellana de una redacción desconocida de los Anales de Tierra Santa.” <em>Hispania: Revista Española de Historia</em> 20 (1960).</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-824" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-824" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-824" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
+			    		<div id="post-800" class="post post-800 type-post status-publish format-standard hentry category-uncategorized">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" title="Chronicle of Amadi">Chronicle of Amadi</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://frenchofoutremer.ace.fordham.edu/author/rbartels1/" title="Posts by Rebecca Bartels" rel="author">Rebecca Bartels</a></p>
+				<p class="post-date"><span>On </span><a href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/">September 29, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+								<p><a class="post-edit-link" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post.php?post=800&#038;action=edit">Edit</a></p>			    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Summary</strong></span><br />
+<span style="font-family: 'Times New Roman';">The <em>Chronique d’Amadi</em> is an Italian compilation manuscript that covers the period of Cypriot history from 1095 until 1445. Surviving in just one sixteenth-century manuscript named after Francesco Amadi, the manuscript’s original owner, the codex contains Italian excerpts and translations of a number of narrative histories commonly found in the Latin East. <span lang="FR">These include William of Tyre’s<em>Eracles</em>, the <em>Annales de Terre Sainte</em>, Philip of Novara’s <em>Estoire et le droit conte de la guerre qui fu entre l’empereur</em>, and the anonymously authored <em>Chronique d’un Templier de Tyr</em>. </span>While several of these works survive independently, the text contains a unique account of the history of Cyprus for the early fourteenth century and preserves a number of variations of those works that are also preserved elsewhere.</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Representative MSS</strong><br />
+</span><span style="font-family: 'Times New Roman';">Venice, Biblioteca Nazionale Marciana, MS. It., VI, 154</p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Edition</strong></span><br />
+<span style="font-family: 'Times New Roman';"><span class="Apple-style-span"><span class="body_text_small"><em><a href="http://books.google.com/books?id=9mpKAAAAYAAJ&amp;dq=Chroniques%20d%27Amadi%20et%20de%20Strambaldi&amp;pg=PP1#v=onepage&amp;q&amp;f=false">Chronique d&#8217;Amadi</a></em>. Edited by R.de Mas Latrie, in <em>Chroniques d&#8217;Amadi et de Strambaldi I. </em>Paris, 1891.</span></span></p>
+<p><span style="font-family: 'Playfair Display';"><span style="color: #6a99e6;"><strong>Secondary Literature</strong></span><span style="font-family: 'Times New Roman';"><br />
+Edbury, Peter. <a href="https://www.worldcat.org/title/kingdom-of-cyprus-and-the-crusades-1191-1374/oclc/958548927&#038;referer=brief_results"><em>The Kingdom of Cyprus and the Crusades, 1191-1374</em></a>. Cambridge, UK: Cambridge University Press,  1991.</p>
+<p><span style="font-family: 'Times New Roman';">Edbury, Peter. “Famagusta and the Tradition of History Writing in Frankish Cyprus.” In <a href="https://www.worldcat.org/title/medieval-and-renaissance-famagusta-studies-in-architecture-art-and-history/oclc/965779041&#038;referer=brief_results"><em>Medieval and Renaissance Famagusta: Studies in Architecture, Art and History</a></em>, edited by M.J.K. Walshin , P. W. Edbury, &#038; N S. H. Coureas. Aldershot, UK: Routledge, 2012.</p>
+<p><span style="font-family: 'Times New Roman';">Edbury, Peter. “Machaut, Mézières, Makhairas and Amadi: Construction the Reign of Peter I (1359-1369).” In <a href="https://www.worldcat.org/title/philippe-de-mezieres-and-his-age/oclc/6066881715&#038;referer=brief_results"><em>Philip de Mézières and His Age: Piety and Politics in the Fourteenth Century</em></a>, edited by R. Blumenfeld-Kosinsko and K. Petov.  Leiden, the Netherlands: 2012. </p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-800" class="share-twitter sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-800" class="share-facebook sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-800" class="share-google-plus-1 sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://frenchofoutremer.ace.fordham.edu/alphabetical-listing/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        		        	                    
+								
+			</div> <!-- /posts -->
+			
+							
+		<div class="archive-navigation">
+			
+			<div class="fleft">
+				
+				<p>Page 1 of 2</p>
+				
+			</div>
+			
+			<div class="fright">
+				
+								
+								
+					<p>
+					
+						<a href="https://frenchofoutremer.ace.fordham.edu/page/2/" >Next &rarr;</a>						
+					</p>
+				
+							
+			</div>
+			
+			<div class="clear"></div>
+						
+		</div> <!-- /archive-nav -->
+						
+					
+		</div> <!-- /content -->
+		
+		<div class="sidebar">
+
+	<div class="widget widget_search"><div class="widget-content"><form method="get" class="search-form" id="search-form" action="https://frenchofoutremer.ace.fordham.edu/">
+	<input type="search" class="search-field" placeholder="Search form" name="s" id="s" /> 
+	<button type="submit" class="search-button"><div class="genericon genericon-search"></button>
+</form></div><div class="clear"></div></div><div class="widget widget_lovecraft_recent_comments"><div class="widget-content">		
+			<ul class="lovecraft-widget-list">
+				
+							
+			</ul>
+					
+		</div><div class="clear"></div></div><div class="widget widget_archive"><div class="widget-content"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='https://frenchofoutremer.ace.fordham.edu/2017/10/'>October 2017</a></li>
+	<li><a href='https://frenchofoutremer.ace.fordham.edu/2017/09/'>September 2017</a></li>
+		</ul>
+		</div><div class="clear"></div></div><div class="widget widget_categories"><div class="widget-content"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</div><div class="clear"></div></div><div class="widget widget_meta"><div class="widget-content"><h3 class="widget-title">Meta</h3>			<ul>
+			<li><a href="https://frenchofoutremer.ace.fordham.edu/wp-admin/">Site Admin</a></li>			<li><a href="https://frenchofoutremer.ace.fordham.edu/wp-login.php?action=logout&#038;_wpnonce=dc11c2c97e">Log out</a></li>
+			<li><a href="https://frenchofoutremer.ace.fordham.edu/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://frenchofoutremer.ace.fordham.edu/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</div><div class="clear"></div></div>
+</div>		
+		<div class="clear"></div>
+
+	</div> <!-- /section-inner -->
+	
+</div> <!-- /wrapper -->
+	              	        
+
+	<div class="footer section big-padding bg-white">
+		
+		<div class="section-inner">
+			
+			<div class="widgets">
+				
+				<div class="widget widget_lovecraft_recent_comments"><div class="widget-content"><h3 class="widget-title">Recent Comments</h3>		
+			<ul class="lovecraft-widget-list">
+				
+							
+			</ul>
+					
+		</div><div class="clear"></div></div><div class="widget widget_archive"><div class="widget-content"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='https://frenchofoutremer.ace.fordham.edu/2017/10/'>October 2017</a>&nbsp;(7)</li>
+	<li><a href='https://frenchofoutremer.ace.fordham.edu/2017/09/'>September 2017</a>&nbsp;(7)</li>
+		</ul>
+		</div><div class="clear"></div></div><div class="widget widget_categories"><div class="widget-content"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="https://frenchofoutremer.ace.fordham.edu/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</div><div class="clear"></div></div><div class="widget widget_meta"><div class="widget-content"><h3 class="widget-title">Meta</h3>			<ul>
+			<li><a href="https://frenchofoutremer.ace.fordham.edu/wp-admin/">Site Admin</a></li>			<li><a href="https://frenchofoutremer.ace.fordham.edu/wp-login.php?action=logout&#038;_wpnonce=dc11c2c97e">Log out</a></li>
+			<li><a href="https://frenchofoutremer.ace.fordham.edu/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://frenchofoutremer.ace.fordham.edu/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</div><div class="clear"></div></div>				
+			</div>
+			
+			<div class="widgets">
+				
+								
+			</div>
+			
+			<div class="widgets">
+				
+								
+			</div>
+			
+			<div class="clear"></div>
+			
+		</div> <!-- /section-inner -->
+		
+	</div> <!-- /footer.section -->
+
+
+<div class="credits section bg-dark">
+			
+	<div class="credits-inner section-inner">
+	
+		<p>Powered by <a href="http://www.wordpress.org">WordPress</a> <span class="sep">&amp;</span> <span>Theme by <a href="http://www.andersnoren.se">Anders Nor&eacute;n</a></span></p>
+	
+	</div> <!-- /section-inner -->
+
+</div> <!-- /credits.section -->
+
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/frenchofoutremer.ace.fordham.edu\/alphabetical-listing\/":800};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+							<input type="hidden" name="source_name" value="Hannah Graham" />
+				<input type="hidden" name="source_email" value="hgraham7@fordham.edu" />
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="https://frenchofoutremer.ace.fordham.edu/wp-content/plugins/jetpack-sharing/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='https://frenchofoutremer.ace.fordham.edu/wp-includes/js/admin-bar.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://frenchofoutremer.ace.fordham.edu/wp-content/themes/lovecraft/js/doubletaptogo.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://frenchofoutremer.ace.fordham.edu/wp-content/themes/lovecraft/js/global.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://frenchofoutremer.ace.fordham.edu/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frenchofoutremer.ace.fordham.edu/wp-content/plugins/jetpack-sharing/sharedaddy/sharing.js?ver=3.9.6'></script>
+		<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/about.php">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/">The French of Outremer</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/">Dashboard</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 comments awaiting moderation</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post-new.php">Post</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/media-new.php">Media</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/post-new.php?post_type=page">Page</a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://frenchofoutremer.ace.fordham.edu/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/profile.php">Howdy, <span class="display-name">Hannah Graham</span><img alt='' src='https://secure.gravatar.com/avatar/cb33c2f3fbea8e042f982f5f08b0e7b1?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/cb33c2f3fbea8e042f982f5f08b0e7b1?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/profile.php"><img alt='' src='https://secure.gravatar.com/avatar/cb33c2f3fbea8e042f982f5f08b0e7b1?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/cb33c2f3fbea8e042f982f5f08b0e7b1?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>Hannah Graham</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-admin/profile.php">Edit My Profile</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="https://frenchofoutremer.ace.fordham.edu/wp-login.php?action=logout&#038;_wpnonce=dc11c2c97e">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://frenchofoutremer.ace.fordham.edu/wp-login.php?action=logout&#038;_wpnonce=dc11c2c97e">Log Out</a>
+					</div>
+
+		
+</body>
+</html>
